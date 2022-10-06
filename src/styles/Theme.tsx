@@ -51,7 +51,10 @@ export const theme: DefaultTheme = {
     '4xl': rem(40),
     '5xl': rem(64),
   },
+
 }
+
+
 
 interface ThemeProps {
   children: ReactNode
